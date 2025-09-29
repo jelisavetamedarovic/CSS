@@ -1,0 +1,35 @@
+li {
+    color: purple;
+}
+
+#nav {
+    background-color: green;
+    padding: 10px 20px;
+}
+
+#nav + p {
+    color: red;
+}
+
+/* .content {
+    background-color: grey;
+} */
+
+/* .content h1 {
+    color: orange;
+} */
+
+/* .content .test {
+    color: orange;
+} */
+
+/* .content > h1 {
+    color: orange;
+} */
+
+/* .content h1#idh1.test.test2 {
+    color: orange;
+} */
+
+
+

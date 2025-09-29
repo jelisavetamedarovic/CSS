@@ -1,0 +1,19 @@
+div#nav a {
+    color: red;
+}
+#nav a {
+    color: black;
+}
+
+#nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+}
+
